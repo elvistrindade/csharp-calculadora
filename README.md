@@ -1,2 +1,3 @@
 # csharp-calculadora
-Calculadora em C#
+Praticando C#
+Calculadora com operações de adição, subtração, multiplicação e divisão/módulo.
